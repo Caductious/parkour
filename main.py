@@ -1,0 +1,2 @@
+import LMAO
+LMAO.lol()
