@@ -1,3 +1,5 @@
 def lol():
     print("Balls???")
     print("Cock???")
+    print("WHAAAAAAAAAAAAAT???")
+
